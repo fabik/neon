@@ -27,4 +27,4 @@ users:
 
 -----
 
-[![Build Status](https://secure.travis-ci.org/nette/application.png?branch=master)](http://travis-ci.org/nette/application)
+[![Build Status](https://secure.travis-ci.org/nette/application.png?branch=v2.2)](http://travis-ci.org/nette/application)
